@@ -6,7 +6,7 @@ public class NextLine {
         System.out.println("Enter your age:");
         int age = sc.nextInt();
         System.out.println("Age is: " + age);
-        System.out.println("Enter your height:");18
+        System.out.println("Enter your height:");
         float height = sc.nextFloat();
         System.out.println("Height is:" + height);
         sc.nextLine();

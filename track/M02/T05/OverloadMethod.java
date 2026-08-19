@@ -1,3 +1,5 @@
+package track.M02.T05;
+
 import java.util.Scanner;
 
 class Printer {
